@@ -1,12 +1,11 @@
-<h1 align="center">Hi , I'm abhinav mishra</h1>
+<h1 align="center">Hi , I'm abhinav</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavm10&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavm10" /> </p>
 
 - 📫 How to reach me **abhinavmishra1004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhinavmishra10042004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinavmishra10042004/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/560103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="560103" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhinavmishra10042004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinavmishra10042004/" height="30" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
